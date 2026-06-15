@@ -1,0 +1,30 @@
+# Compiled class file
+*.class
+*.jar
+*.war
+
+# Output directories
+bin/
+out/
+build/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/*
+!.vscode/settings.json
+*.project
+.classpath
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+*.swp
